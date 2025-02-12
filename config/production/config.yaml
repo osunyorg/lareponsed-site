@@ -2,6 +2,11 @@
 
 baseURL: https://lareponsed-site.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: 0057376b-2575-4927-a5f7-748113e3f032
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
